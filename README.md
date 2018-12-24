@@ -1,0 +1,33 @@
+Vendor repository for Oukitel K6  (LineageOS 14.1)
+===========================
+
+Getting Started
+---------------
+
+Initialize a repository with LineageOS:
+
+    repo init -u git://github.com/LineageOS/android.git -b cm-14.1
+    repo sync
+
+
+Build the code:
+
+    source build/envsetup.sh
+    time brunch k6
+
+Change log
+----------
+### v0.1
+- Oukitel K6 first version (Didn't Tested)
+  
+Credits & Thanks 
+---------
+- LineageOS
+- Team MAD
+- Moyster
+- Visi0nary
+- Fire855
+- DidntRead
+- Ukhellfire
+
+

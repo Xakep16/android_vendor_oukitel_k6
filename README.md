@@ -17,6 +17,16 @@ Build the code:
 
 Change log
 ----------
+
+### v0.2
+- Oukitel K6 tested and working
+
+What does not work:
+mobile connection
+NFC (files added but not working at the moment)
+Fingerprint - currently not fixed.
+Video codecs do not work as expected
+
 ### v0.1
 - Oukitel K6 first version (Didn't Tested)
   
